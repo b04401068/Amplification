@@ -2637,6 +2637,8 @@ for col in prioritize_cols:
         print(f"{col}: Column missing from this file metadata layout.")
 #'''
 
+#final table output
+'''
 import pandas as pd
 
 # 1. Load the source file containing prioritization columns
